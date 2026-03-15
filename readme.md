@@ -5,4 +5,5 @@ Criar um carrinho de compras baseado no carrinho de compras da shopee, onde o ca
 
 ## As entidades representadas
 -> Carrinho = cart.js
+
 -> itens = item.js
